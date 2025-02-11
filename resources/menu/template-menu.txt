@@ -1,0 +1,65 @@
+{
+  "menu": [
+    {
+      "url": "/admin/main",
+      "name": "Dashboards",
+      "icon": "menu-icon tf-icons bx bx-home-circle",
+      "slug": "dashboard-analytics"
+    },
+    {
+        "menuHeader": "Web Information"
+    },
+    {
+        "name": "Products",
+        "icon": "menu-icon tf-icons bx bx-collection",
+        "slug": "admin-products",
+        "url": "/admin/products"
+    },
+    {
+        "name": "News",
+        "icon": "menu-icon tf-icons bx bx-detail",
+        "slug": "admin-news",
+        "url": "/admin/news"
+    },
+    {
+        "name": "Promotion",
+        "icon": "menu-icon tf-icons bx bx-gift",
+        "slug": "admin-promotion",
+        "url": "/admin/promotion"
+    },
+    {
+        "name": "Gallery",
+        "icon": "menu-icon tf-icons bx bx-calendar",
+        "slug": "admin-activities",
+        "url": "/admin/activities"
+    },
+    {
+        "name": "Contacts",
+        "icon": "menu-icon tf-icons bx bxs-contact",
+        "slug": "admin-contacts",
+        "url": "/admin/contacts"
+    },
+    {
+        "menuHeader": "Account"
+    },
+    {
+        "name": "Account Settings",
+        "icon": "menu-icon tf-icons bx bx-user-circle",
+        "slug": "admin-account-setting",
+        "url": "/admin/account-setting"
+    },
+    {
+        "name": "Organization",
+        "icon": "menu-icon tf-icons bx bx-building",
+        "slug": "admin-organization",
+        "url": "/admin/organization"
+    },
+    {
+        "name": "Logout",
+        "icon": "menu-icon tf-icons bx bx-log-out",
+        "slug": "admin-logout",
+        "url": "/admin/logout"
+    }
+
+  ]
+}
