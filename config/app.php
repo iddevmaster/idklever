@@ -177,7 +177,7 @@ return [
         Phattarachai\LineNotify\LineNotifyServiceProvider::class,
         App\Providers\MenuServiceProvider::class,
         Mews\Captcha\CaptchaServiceProvider::class,
-        Intervention\Image\ImageServiceProvider::class,
+        // Intervention\Image\ImageServiceProvider::class,
         Jorenvh\Share\Providers\ShareServiceProvider::class,
     ])->toArray(),
 
